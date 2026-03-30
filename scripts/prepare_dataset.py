@@ -67,7 +67,8 @@ def upload_to_hf():
         folder_path=PROCESSED_PATH,
         repo_id=HF_DATASET_REPO,
         repo_type="dataset",
-        token=HF_TOKEN
+        token=HF_TOKEN,
+        delete_patterns="*"
     )
     print(f"The dataset is uploaded to https://huggingface.co/datasets/{HF_DATASET_REPO}")
 if __name__ == "__main__":
