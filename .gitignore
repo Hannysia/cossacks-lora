@@ -1,4 +1,12 @@
+data/
+images/
+raw_data/
+dataset/
+*.jpg
+*.png
+*.txt
+
 __pycache__/
-*.py[cod]
-.venv
+.ipynb_checkpoints/
+.virtual_envs/
 .env
