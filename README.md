@@ -4,7 +4,7 @@
 [![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo%20Space-blue)](https://huggingface.co/spaces/hannusia123123/cossacks-lora-demo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
-[![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-Logging-orange)](https://wandb.ai/anyknysh2000-/cossacks_lora_experiments)
+[![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-Logging-orange)](https://api.wandb.ai/links/anyknysh2000-/byrdyz1b)
 
 **Objective:** Train a Stable Diffusion XL (SDXL) model to generate images in the specific 2D cel-shaded style of the classic Ukrainian animated film "How the Cossacks..." using Low-Rank Adaptation (LoRA).
 
@@ -21,7 +21,7 @@
 ## 💻 2. Model Training Code & Setup
 * **Environment:** Kaggle (2x T4 GPU)
 * **Training Code:** [https://github.com/Hannysia/cossacks-lora/blob/master/notebooks/02-training-and-validation.ipynb]
-* **Training Logs & Metrics (W&B):** [https://wandb.ai/anyknysh2000-/cossacks_lora_experiments/table?nw=nwuseranyknysh2000]
+* **Training Logs & Metrics (W&B):** [https://api.wandb.ai/links/anyknysh2000-/byrdyz1b]
 
 
 **Key Hyperparameters & Architectural Decisions:**
