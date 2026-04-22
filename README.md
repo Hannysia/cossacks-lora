@@ -8,6 +8,12 @@
 
 **Objective:** Train a Stable Diffusion XL (SDXL) model to generate images in the specific 2D cel-shaded style of the classic Ukrainian animated film "How the Cossacks..." using Low-Rank Adaptation (LoRA).
 
+<p align="center">
+  <img src="docs/demo.png" width="800" alt="Cossacks LoRa Generation Result">
+  <br>
+  <em>Generation example: the authentic style of the cartoon "How the Cossacks...", generated using SDXL LoRA</em>
+</p>
+
 ---
 
 ## 📂 1. Input Data and Annotations
